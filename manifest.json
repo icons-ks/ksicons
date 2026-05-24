@@ -1,6 +1,6 @@
 {
-    "name": "Pulsi Rajoneve",
-    "start_url": "https://ks.wuaze.com/",
+    "name": "APP",
+    "start_url": "",
 	"orientation": "portrait",
     "display": "standalone",
     "icons": [
